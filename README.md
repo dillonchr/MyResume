@@ -7,7 +7,7 @@
 My objective is to find a position that keeps challenging my skill set in software development. I want to continue to learn more about new technologies with a focus to benefit the bottom line.
 
 ##Bio
-With nine years of experience in the technology sector, I enjoy every minute spent in development. I am self-taught in all the skills I have accumulated over the years. I started off in web development and got hooked to development. At first, I just did little favors for friends and family. Later I learned dynamic languages and started to do freelance work. Most of my career has been in retail, until I got my current job in 2011.
+With nine years of experience in the technology sector, I enjoy every minute spent in development. I am self-taught in all the skills I have accumulated over the years. I started off in web development and got hooked to development. At first, I just did little favors for friends and family. Later I learned dynamic languages and started to do freelance web work. From there, my interests went towards software programming and eventually brought me to my current position as Senior Software Developer.
 
 ##What sets me apart from the crowd
 * My passion for learning. I absorb new things quickly and independently. I am able to figure out
