@@ -45,3 +45,27 @@ _January 2011 - January 2012_ in Tulsa, OK
 
 * * *
 Outside of those jobs, I've worked in retail. If you'd like to see more employment history please email me and we can talk.
+
+##Skills
+* HTML
+* CSS
+* JavaScript
+	* jQuery
+	* AngularJS
+* Bower
+* Grunt
+* Node.js
+* PHP
+* MySQL
+	* PhpMyAdmin
+* Objective-C
+	* Xcode
+* Java
+	* Android SDK
+	* Eclipse
+	* Google Web Toolkit (GWT)
+		* mgwt
+* Apache
+* Git
+* Mercurial
+* C#
