@@ -14,12 +14,12 @@ With three years of working experience in the technological sector, I provide di
 ###iMirus
 ####Senior Software Developer
 _January 2012 - Present_ in Tulsa, OK
-* Built flagship webapp document reader
-* Recruited new developers at university career fairs
+* Built and maintained flagship webapp document reader
 * Bugfixes, enhancements, and new features in mobile apps
 * Took the initiative to build in-house utility apps
 * Developed web-apps to manage catalog prices
 * Learned agile methodology and code version control
+* Recruited new developers at university career fairs
 
 ####Account Manager
 _January 2011 - January 2012_ in Tulsa, OK
@@ -37,13 +37,14 @@ _May 2011 - December 2011_ in Tulsa, OK
 
 
 ##Skills
-* HTML, CSS, JavaScript
-* jQuery, AngularJS, Phonegap
+* HTML, CSS, JavaScript, Bootstrap, Responsive Design
+* jQuery, GreenSock, AngularJS, Phonegap
 * Bower, Grunt
-* Node.js, MongoDB
-* PHP, MySQL, PhpMyAdmin
+* Node.js, PouchDB
+* PHP, MySQL, PhpMyAdmin, Composer, Wordpress
 * Objective-C, Xcode
 * Java, Android SDK, Eclipse, Google Web Toolkit
 * Apache, Tomcat
-* Git, Mercurial
+* Git, Git-workflow, Mercurial
 * C#, WinForms, Visual Studio
+* Shell and Batch Scripts
