@@ -8,9 +8,16 @@ I am self-taught and self-driven in all the skills I have accumulated over the y
 
 
 ##Experience
+###ConsumerAffairs -- Tulsa, OK
+####Software Engineer - Team Lead
+_May 2016 - Present_
+* Led development on customer-facing site
+* Learned and practiced Agile methodologies
+* Learned to work with Django/Python and specifically Jinja2 templates
+
 ###Gitwit Creative -- Tulsa, OK
 ####Front-end Developer
-_January 2016 - Present_
+_January 2016 - May 2016_
 * Built many responsive interactive content modules for high traffic clients
 * Architecting fantasy sports web-app in AngularJS
 * Contracted and managed development on overflow projects to meet tight deadlines
