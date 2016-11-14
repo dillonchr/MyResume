@@ -11,6 +11,7 @@ I am self-taught and self-driven in all the skills I have accumulated over the y
 ###ConsumerAffairs -- Tulsa, OK
 ####Software Engineer - Team Lead
 _May 2016 - Present_
+
 * Led development on customer-facing site
 * Learned and practiced Agile methodologies
 * Learned to work with Django/Python and specifically Jinja2 templates
@@ -18,6 +19,7 @@ _May 2016 - Present_
 ###Gitwit Creative -- Tulsa, OK
 ####Front-end Developer
 _January 2016 - May 2016_
+
 * Built many responsive interactive content modules for high traffic clients
 * Architecting fantasy sports web-app in AngularJS
 * Contracted and managed development on overflow projects to meet tight deadlines
@@ -28,6 +30,7 @@ _January 2016 - May 2016_
 ###Kalibrate -- Tulsa, OK
 ####Software Engineer
 _December 2014 - January 2016_
+
 * Collaborated with multiple sprint teams on AngularJS app using test-driven development
 * Administered code reviews for fellow engineers
 * Trained teammates on AngularJS best practices
@@ -37,6 +40,7 @@ _December 2014 - January 2016_
 ###iMirus -- Tulsa, OK
 ####Senior Software Developer
 _January 2012 - December 2014_
+
 * Built and maintained flagship AngularJS document reader app
 * Bugfixes, enhancements, and new features in native iOS and Android mobile apps
 * Took the initiative to build in-house utility apps
@@ -46,6 +50,7 @@ _January 2012 - December 2014_
 
 ####Account Manager
 _January 2011 - January 2012_
+
 * Recognized for having strong communication skills
 * Developed in-house applications using Java and PHP
 * Created and updated client-facing web pages
@@ -56,6 +61,7 @@ _January 2011 - January 2012_
 ###Freelance Web Development
 ####PHP Developer
 _May 2011 - December 2011_
+
 * Developed WordPress themes and plugins
 * Built a social network site in PHP/MySQL
 
