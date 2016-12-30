@@ -1,23 +1,23 @@
-#Dillon Christensen
+# Dillon Christensen
 
     <j.dillon.christensen@gmail.com>
     918-284-2712
 
-##Summary
+## Summary
 I am self-taught and self-driven in all the skills I have accumulated over the years. I began as a freelance web developer and today build everything from static webpages to complicated mobile applications. My portfolio of experience extends to websites and software solutions in multimedia, medical, retail, and publishing industries. My objective is to keep learning and improving my skillset to improve my craft and further my career.
 
 
-##Experience
-###ConsumerAffairs -- Tulsa, OK
-####Software Engineer - Team Lead
+## Experience
+### ConsumerAffairs -- Tulsa, OK
+#### Software Engineer - Team Lead
 _May 2016 - Present_
 
 * Led development on customer-facing site
 * Learned and practiced Agile methodologies
 * Learned to work with Django/Python and specifically Jinja2 templates
 
-###Gitwit Creative -- Tulsa, OK
-####Front-end Developer
+### Gitwit Creative -- Tulsa, OK
+#### Front-end Developer
 _January 2016 - May 2016_
 
 * Built many responsive interactive content modules for high traffic clients
@@ -27,8 +27,8 @@ _January 2016 - May 2016_
 
 ***
 
-###Kalibrate -- Tulsa, OK
-####Software Engineer
+### Kalibrate -- Tulsa, OK
+#### Software Engineer
 _December 2014 - January 2016_
 
 * Collaborated with multiple sprint teams on AngularJS app using test-driven development
@@ -37,8 +37,8 @@ _December 2014 - January 2016_
 
 ***
 
-###iMirus -- Tulsa, OK
-####Senior Software Developer
+### iMirus -- Tulsa, OK
+#### Senior Software Developer
 _January 2012 - December 2014_
 
 * Built and maintained flagship AngularJS document reader app
@@ -48,7 +48,7 @@ _January 2012 - December 2014_
 * Learned agile methodology and code version control
 * Recruited new developers at university career fairs
 
-####Account Manager
+#### Account Manager
 _January 2011 - January 2012_
 
 * Recognized for having strong communication skills
@@ -58,8 +58,8 @@ _January 2011 - January 2012_
 
 ***
 
-###Freelance Web Development
-####PHP Developer
+### Freelance Web Development
+#### PHP Developer
 _May 2011 - December 2011_
 
 * Developed WordPress themes and plugins
