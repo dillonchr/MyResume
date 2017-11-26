@@ -1,12 +1,7 @@
 # Dillon Christensen
-><j.dillon.christensen@gmail.com>
+> 918-284-2712 `<j.dillon.christensen@gmail.com>`
 
->918-284-2712
-
-## Summary
 I have a passion for creating things that can teach me something new and help people out. The desire to build things is what got me started when I was younger and my creative thinking and problem-solving skills are what have kept me moving forward. I love learning new things and finding new ways to use old tools. My objective is to continue growing and honing my skills to build better products.
-
-## Professional Experience
 
 ### [Kalibrate](http://www.kalibrate.com/) - Tulsa, OK
 #### UX/UI Developer
@@ -16,8 +11,7 @@ _February 2017 - Present_
 * Developed frontend screens and features
 * Debugged memory and performance issues
 
-#### Environment
-So far, the product I started working on was in Angular 2 with TypeScript. We found some deep-seated performance issues and tried switching to React. From there we added a WebGL-enhanced module to take the performance to a new high. The latest product was a mobile app built with React Native for internal users to survey sites across the world.
+So far, the product I started working on was with __Angular 2__ in __TypeScript__. We found some deep-seated performance issues and tried switching to __React__. From there we added a __WebGL__-enhanced module to take the performance to a new high. The latest product was a mobile app built with __React Native__ for internal users to survey sites across the world.
 
 ***
 
@@ -26,22 +20,20 @@ So far, the product I started working on was in Angular 2 with TypeScript. We fo
 _May 2016 - February 2017_
 
 * Led full-stack development on customer-facing site
-* Learned and practiced SCRUM/Agile methodologies
+* Learned and practiced __SCRUM/Agile__ methodologies
 * Close focus on performance and SEO
 
-#### Environment
-Django (Python) backend with Jinja2 templates for markup. SCSS and legacy Stylus. Vanilla JS compiled with Webpack with ES6 transpilation, gulp, Istanbul coverage, jasmine & karma unit-tests. My development was focused on frontend with some lightweight Jinja. Mostly I would ensure that the team was free of blockers and picked up any slack.
+With a Python Django backend using __Jinja2__ templates for markup, my development contributions were focused on frontend __JS/CSS__ with some lightweight __Jinja__ work. I worked in __Sass__ and legacy Stylus, __vanilla JS__ compiled with __gulp__ using __Webpack__ and __ES6__ transpilation. We used __jasmine__ in __karma__ unit-tests and __Istanbul__ for coverage. Every Pull Request ran through __Circle CI__ with strict test coverage requirements.
 
 ### [Gitwit](http://gitwit.com/) - Tulsa, OK
 #### Front-end Developer
 _January 2016 - May 2016_
 
 * Built responsive interactive content modules for high traffic clients
-* Architected fantasy sports web-app in AngularJS
+* Architected fantasy sports web-app in __AngularJS__
 * Contracted and managed development on overflow projects to meet tight deadlines
 
-#### Environment
-The environment changed between clients. Mostly the work I did here was shared via GitHub and published by the clients themselves. Vanilla JS/CSS/HTML content was the most common, with the one Angular app, and modifications to Wordpress and Squarespace themes peppered in here and there.
+The environment changed between clients. Most of the work I did here was PR'd to the client's __GitHub__ and published on their site by themselves. Vanilla __JS/CSS/HTML__ content was the most common, with the one __AngularJS__ app, and modifications to __Wordpress__ and __Squarespace__ themes peppered in here and there.
 
 ***
 
@@ -49,12 +41,11 @@ The environment changed between clients. Mostly the work I did here was shared v
 #### Software Engineer
 _December 2014 - January 2016_
 
-* Collaborated with multiple sprint teams on AngularJS app using test-driven development
+* Collaborated with multiple sprint teams on __AngularJS__ app using __test-driven development__
 * Administered code reviews for fellow engineers
 * Paired programming
 
-#### Environment
-ASP.net backend with Web API, SQL Server, with completely AngularJS frontend, built with Grunt in combination with SCSS, jQuery, and linted with JSLint. Unit-tests for frontend code with Jasmine and Karma, end-to-end tests with Protractor and PhantomJS.
+Kalibrate has a .net backend with SQL Server. I worked on the completely __AngularJS__ frontend, built with __Grunt__ in combination with __Sass__, __jQuery__, and linted with __JSLint__. Unit-tests for frontend code with __Jasmine__ and __Karma__, end-to-end tests with __Protractor__ and __PhantomJS__.
 
 ***
 
@@ -62,16 +53,8 @@ ASP.net backend with Web API, SQL Server, with completely AngularJS frontend, bu
 #### Senior Software Developer
 _January 2011 - December 2014_
 
-* Built and maintained flagship AngularJS document reader app
-* iOS and Android development
+* Built and maintained flagship __AngularJS__ document reader app
+* Native __iOS__ and __Android__ development
 * Recruited new developers at university career fairs
 
-#### Environment
-Java & Scala backend with some REST endpoints, but mostly servlets. PostgreSQL for legacy, MySQL for small client projects, and PouchDB and Lunr.js for the AngularJS mobile app. Self-hosted web content for clients with jQuery, as well as the legacy Adobe Flex web app document reader. Frequent flash animations were used in the flex app. Objective-C for the native iPad app development. Java for Android development. AngularJS and Cordova were used for the upcoming mobile app.
-
-## Technical Expertise
-__Javascript__ has been a constant in my development roles. I've learned a lot of general techniques like unit testing, end-to-end testing, tooling, package managers, functional programming, MVC, MVVM. I love working with JS and keep looking for new areas to explore.
-
-__HTML/CSS__ has been another core piece of my experience. I've worked with css preprocessors, accessibility requirements, and of course responsive design. 
-
-__Process__ I think this has been an important aspect to development roles. The processes that I've worked in have made all the difference between companies. I'm a big SCRUM/Agile fan and feel like I can be most productive with the checks and balances it provides.
+iMirus had a Scala backend with REST endpoints and a lot of Java servlets. The database was PostgreSQL. I only consumed data and never worked on the backend or db layer. I used __PouchDB__ and __Lunr.js__ for the __AngularJS__/__Cordova__ mobile app. I built and deployed web content for clients with __jQuery__, as well as the legacy __Adobe Flex__ web app document reader. I designed and built __flash__ animations that were used in the __flex__ reader app. I worked with __Objective-C__ for native iPad app development and __Java__ for __Android__ development.

@@ -4,3 +4,7 @@ I wanted to solve a couple of problems I had. Keeping an up-to-date resume in a 
 ### Links
 * [View Resume](resume.md)
 * [LinkedIn](https://www.linkedin.com/in/dillonchr)
+
+### TODO
+* Fix automatic build process, `toHTML() -> ok, toPDF() -> not ok`
+* Possibly flower it out again, it's a page and a half after some slashing
