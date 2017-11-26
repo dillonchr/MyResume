@@ -1,8 +1,6 @@
-# My Résumé
-## Purpose
-To take advantage of free hosting and prevent myself from having to send a file from an old computer or use dropbox to maintain my resumes. I will keep modifying this repo to reflect my experience throughout my career.
+# Purpose
+I wanted to solve a couple of problems I had. Keeping an up-to-date resume in a central spot was hard for me. I would go through emails and find the best version and create a new doc and paste what I had before. So by switching to a Markdown based resume it's easy to see online and paste whereever I need. It's always available and easy to update.
 
 ### Links
-* [Resume on Github](resume.md)
-* [Design Portfolio](http://dillonchr.github.io/portfolio/ "Not proud of this one but it's the best I've got published so far.")
+* [View Resume](resume.md)
 * [LinkedIn](https://www.linkedin.com/in/dillonchr)
