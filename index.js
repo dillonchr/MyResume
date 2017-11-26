@@ -1,7 +1,9 @@
 const fs = require('fs');
-const markdownpdf = require('markdown-pdf');
-const cssPath = `file://${__dirname.replace(/\\/g, '/')}/pdf-style.css`;
+const { Markdown } = require('markdown-to-html');
+const md = new Markdown();
 
-fs.createReadStream('./resume.md')
-    .pipe(markdownpdf({ cssPath }))
-    .pipe(fs.createWriteStream('./Dillon Christensen - Resume.pdf'));
+const HTML_PATH = 'build/Dillon Christensen - Resume.html';
+
+md.render('./resume.md', {stylesheet: 'pdf-style.css'}, () => {
+    md.pipe(fs.createWriteStream(HTML_PATH));
+});
