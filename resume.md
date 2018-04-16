@@ -1,17 +1,17 @@
 # Dillon Christensen
-> 918-284-2712 `<j.dillon.christensen@gmail.com>`
+> 918-896-7033 `<j.dillon.christensen@gmail.com>`
 
 I have a passion for creating things that can teach me something new and help people out. The desire to build things is what got me started when I was younger and my creative thinking and problem-solving skills are what have kept me moving forward. I love learning new things and finding new ways to use old tools. My objective is to continue growing and honing my skills to build better products.
 
 ### [Kalibrate](http://www.kalibrate.com/) - Tulsa, OK
-#### UX/UI Developer
+#### Senior UX Developer
 _February 2017 - Present_
 
-* Created wireframes and medium fidelity mockups for new app
+* Delivered wireframes and low-mid fidelity mockups
 * Developed frontend screens and features
 * Debugged memory and performance issues
 
-So far, the product I started working on was with __Angular 2__ in __TypeScript__. We found some deep-seated performance issues and tried switching to __React__. From there we added a __WebGL__-enhanced module to take the performance to a new high. The latest product was a mobile app built with __React Native__ for internal users to survey sites across the world.
+So far, the product I started working on was with __Angular 2__ in __TypeScript__. We ran into many performance issues with Angular and decided to switch to __React__. From there we added a __WebGL__-enhanced module to take the performance to a new high. The latest product was a mobile app built with __React Native__ for internal users to survey sites across the world.
 
 ***
 
