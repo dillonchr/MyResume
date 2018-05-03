@@ -1,7 +1,11 @@
 # Dillon Christensen
 > 918-896-7033 `<j.dillon.christensen@gmail.com>`
+>
+> https://github.com/dillonchr
 
-I love creating web apps. Javascript is my jam. I _love_ learning and with JS, it never ends. I want to keep growing to become ever sharper and even more helpful without losing my kind charming demeanor that helps me to reassure my team I'm here to help. Overall, I want to have fun creating life-changing products and relationships.
+
+
+**Hello, here's my deal:** I love what I do. I love learning.  I've learned that my specialties lie in doing well what I know and learning the things I don't. Figuring out how things work has been an passion for me since I was a kid, the same passion that got me into development in the first place. Now with my career's focus, it opens endless possibilities that I can cherry pick as they inspire me. I want to find a place that feels the same way I do about development. I don't want to brag about myself, and I believe that open and honest communication is the best policy. So everything that follows lays out what I'm comfortable with diving into headfirst. Anything not listed, I'm excited to try.
 
 
 
@@ -9,11 +13,11 @@ I love creating web apps. Javascript is my jam. I _love_ learning and with JS, i
 #### Senior UX Developer
 _February 2017 - Present_
 
-* Drew up wireframes and low-to-mid fidelity mockups
 * Developed frontend SaaS apps
+* Drew up wireframes and low-to-mid fidelity mockups
 * Debugged memory and performance issues
 
-I started the role working in __Angular 2__. Before we got too far, we ditched Angular and decided to switch to __React__. From there we added a __WebGL__-enhanced module to take the performance to a new high. A recent sideshow was a mobile surveyor app built with __React Native__ for internal users to survey sites across the globe.
+Most recently I've been working on rewriting the main offering of Kalibrate, a retail fuel planning SaaS, in **React** using **Leaflet** maps and **WebGL** to render thousands of markers on the map at a time. Before using React, when I had joined, the project was going to be built in __Angular 2__.  But the performance wasn't where we wanted it to be. A recent sideshow was a mobile surveyor app built with __React Native__ for internal users to survey sites across the globe.
 
 ***
 
@@ -25,7 +29,9 @@ _May 2016 - February 2017_
 * Learned and practiced __SCRUM/Agile__ methodologies
 * Laser focus on performance and SEO
 
-CA's site had a Python Django backend using __Jinja2__ templates for markup. While I worked on some light python, my development contributions were mostly focused on frontend __JS/CSS__. I worked with __Sass__ and legacy Stylus, __vanilla JS__ compiled with __gulp__ using __Webpack__ and __ES6__ transpilation. We used __jasmine__ in __karma__ unit-tests and __Istanbul__ for coverage. Every Pull Request ran through __Circle CI__ with strict test coverage requirements.
+ConsumerAffair's site had a Python Django backend using __Jinja2__ templates for markup. While I worked on some light python, my development contributions were mostly focused on frontend __JS/CSS__. I worked with __Sass__ and legacy Stylus, __vanilla JS__ compiled with __gulp__ using __Webpack__ and got my first exposure to __ES6__. I used __jasmine__ in __karma__ unit-tests and __Istanbul__ for coverage. Every Pull Request ran through __Circle CI__ with strict test coverage requirements.
+
+---
 
 ### [Gitwit](http://gitwit.com/) - Tulsa, OK
 #### Front-end Developer
@@ -33,7 +39,7 @@ _January 2016 - May 2016_
 
 * Built responsive interactive content modules for high traffic clients
 * Prototyped client web-apps
-* Contracted and managed developers on overflow projects
+* Brought on and managed developers on overflow projects
 
 The environment here changed between clients. For my development vanilla __JS/CSS/HTML__ content was the most common, with one __AngularJS__ app. And tons of modifications to __Wordpress__ and __Squarespace__ themes peppered in here and there (I was their first fulltime developer).
 
@@ -43,7 +49,7 @@ The environment here changed between clients. For my development vanilla __JS/CS
 #### Software Engineer
 _December 2014 - January 2016_
 
-* Collaborated with multiple sprint teams on __AngularJS__
+* Collaborated with multiple sprint teams on flagship __AngularJS__ project
 * Learned __TDD__
 * Maintained mobile app with __Cordova__ for both iOS and Android
 
