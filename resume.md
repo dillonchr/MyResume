@@ -5,19 +5,19 @@
 
 
 
-**Hello, here's my deal:** I love what I do. I love learning.  I've learned that my specialties lie in doing well what I know and learning the things I don't. Figuring out how things work has been an passion for me since I was a kid, the same passion that got me into development in the first place. Now with my career's focus, it opens endless possibilities that I can cherry pick as they inspire me. I want to find a place that feels the same way I do about development. I don't want to brag about myself, and I believe that open and honest communication is the best policy. So everything that follows lays out what I'm comfortable with diving into headfirst. Anything not listed, I'm excited to try.
+**Hello, here's my story:** I love what I do. I love learning.  Figuring out how things work has been an passion for me since I was young, that same passion got me into development in the first place. Now with my career's focus, it opens endless possibilities that I can cherry pick as they inspire me. I want to find a place that feels the same way I do about development. I don't want to brag about myself, and I believe that open and honest communication is the best policy. So everything that follows lays out what I'm comfortable with diving into headfirst. Anything not listed, I'm excited to try.
 
 
 
 ### [Kalibrate](http://www.kalibrate.com/) - Tulsa, OK
 #### Senior UX Developer
-_February 2017 - Present_
+_February 2017 - June 2019_
 
 * Developed frontend SaaS apps
-* Drew up wireframes and low-to-mid fidelity mockups
 * Debugged memory and performance issues
+* Drew up wireframes and low-to-mid fidelity mockups
 
-Most recently I've been working on rewriting the main offering of Kalibrate, a retail fuel planning SaaS, in **React** using **Leaflet** maps and **WebGL** to render thousands of markers on the map at a time. Before using React, when I had joined, the project was going to be built in __Angular 2__.  But the performance wasn't where we wanted it to be. A recent sideshow was a mobile surveyor app built with __React Native__ for internal users to survey sites across the globe.
+Most recently I've been working on rewriting the main offering of Kalibrate, a retail fuel planning SaaS, in **React** using **Leaflet** maps. When I joined the team, the project was going to be built in __Angular 2__.  But the performance wasn't where we needed it to be. A recent side project was a  __React Native__ app built for internal users to survey sites across the globe.
 
 ***
 
