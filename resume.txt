@@ -29,34 +29,47 @@ multiple platforms
 ----------------------------------------------------------------------
 
 CONSUMERAFFAIRS / GITWIT --- TULSA
-Online marketplace for consumers to research, rate, and review big purchases
+Online marketplace for consumers to research, rate, and review big
+purchases
 
 SOFTWARE ENGINEER TEAM LEAD --- 2016-2017
-Led full-stack development of 8 with a focus on SCRUM/Agile methodologies
+Led full-stack development of 8 with a focus on SCRUM/Agile
+methodologies
 
-* Developed features and fixed defects in public-facing pages using  Javascript, Sass, and Jinja
-* Wrote unit tests for changes using Jasmine to ensure code quality in addition to peer reviews
-* Forged close relationships with team members, local and remote, to help in their growth and to learn from them as well
-* Overhauled several key pages of consumeraffairs.com by working closely with remote design team
+* Developed features and fixed defects in public-facing pages using
+  Javascript, Sass, and Jinja
+* Wrote unit tests for changes using Jasmine to ensure code quality in
+  addition to peer reviews
+* Forged close relationships with team members, local and remote, to
+  help in their growth and to learn from them as well
+* Overhauled several key pages of consumeraffairs.com by working
+  closely with remote design team
 
 ----------------------------------------------------------------------
 
 FRONTEND DEVELOPER --- 2016
-Developed front-end UIs for designs by Gitwit for ConsumerAffairs and other clients
+Developed front-end UIs for designs by Gitwit for ConsumerAffairs and
+other clients
 
-* Built responsive interactive content modules to be included in high traffic marketing pages
+* Built responsive interactive content modules to be included in high
+  traffic marketing pages
 * Prototyped client web-apps using AngularJS
-* Interviewed and managed independent contract developers on overflow projects
+* Interviewed and managed independent contract developers on overflow
+  projects
 
 ----------------------------------------------------------------------
 
 KALIBRATE --- TULSA
 SOFTWARE ENGINEER --- 2014-2016
-Built new features and maintained legacy web-apps for planning organization
+Built new features and maintained legacy web-apps for planning
+organization
 
-* Implemented new features in the flagship AngularJS product with many being map-centered improvements
-* Learned Test-driven development and implemented process to easily unit-test JS as well as write Protractor tests for E2E
-* Fixed bugs and developed enhancements to existing iOS/Android app using JS and Cordova
+* Implemented new features in the flagship AngularJS product with many
+  being map-centered improvements
+* Learned Test-driven development and implemented process to easily
+  unit-test JS as well as write Protractor tests for E2E
+* Fixed bugs and developed enhancements to existing iOS/Android app
+  using JS and Cordova
 
 ----------------------------------------------------------------------
 
@@ -64,10 +77,14 @@ IMIRUS --- TULSA
 Online cross-platform digital publisher and content creator
 
 SENIOR SOFTWARE DEVELOPER --- 2011-2014
-Developed new digital reader and maintained existing reader apps in multiple environments
+Developed new digital reader and maintained existing reader apps in
+multiple environments
 
-* Learned AngularJS to use in creating new JS-based document reader app to replace Adobe Air app
-* Developed core features and fixed bugs with native apps and released builds on iTunes and Google Play/Amazon
+* Learned AngularJS to use in creating new JS-based document reader
+  app to replace Adobe Air app
+* Developed core features and fixed bugs with native apps and released
+  builds on iTunes and Google Play/Amazon
 * Recruited new developers and led training on orientations
-* Built custom web-app for daily tasks with our internal digital editions processes and workflows
+* Built custom web-app for daily tasks with our internal digital
+  editions processes and workflows
 
