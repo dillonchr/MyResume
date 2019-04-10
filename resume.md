@@ -20,7 +20,7 @@ Built front-end of flagship planning Saas app and designed UI/UX for multiple pl
 
 ***
 
-### ConsumerAffairs/Gitwit - Tulsa
+### ConsumerAffairs / Gitwit - Tulsa
 Online marketplace for consumers to research, rate, and review big purchases
 
 #### Software Engineer Team Lead - _2016-2017_

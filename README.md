@@ -1,9 +1,17 @@
-# Purpose
-I wanted to solve a couple of problems I had. Keeping an up-to-date resume in a central spot was hard for me. I would go through emails and find the best version and create a new doc and paste what I had before. So by switching to a Markdown based resume it's easy to see online and paste whereever I need. It's always available and easy to update.
+# My Resume
+This is a repo dedicated to my resume. Surprise. I have often struggled with keeping a central core resume especially when I need to add something I'm proud of to it. So by hosting it in GH I get the benefit of not only having it always available anywhere I'm at but I also get history!
 
 ### Links
 * [View Resume](resume.md)
 * [LinkedIn](https://www.linkedin.com/in/dillonchr)
+* [Github](https://github.com/dillonchr/?tab=repositories)
 
-### TODO
-* Possibly flower it out again, it's a page and a half after some slashing
+### TODO:
+* Learn C -> Write Game Boy _"app"_
+* Write a 3DS game
+* Write an NES game. In C or like in dreams, in 6502
+* Write a normal modern game, even a flappy bird clone would be nice
+* Add a shopping list module to the funhouse/kowalski repertoire
+* Build and release a personal android app on Google Play
+* Update bookworth, overhaul UI, add its own API, integrate bookmancy
+* Build word cloud generator app
