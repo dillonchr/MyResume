@@ -7,6 +7,15 @@ This is a repo dedicated to my resume. Surprise. I have often struggled with kee
 * [Github](https://github.com/dillonchr/?tab=repositories)
 
 ### TODO:
+* add curl pretty version
+* add curl interactive version
+* add bash/vim
+* add json format
+* add bat/cmd format
+* add excel
+* add latex
+
+### TODO WITH DEVELOPMENT IN GENERAL:
 * Learn C -> Write Game Boy _"app"_
 * Write a 3DS game
 * Write an NES game. In C or like in dreams, in 6502
@@ -14,4 +23,5 @@ This is a repo dedicated to my resume. Surprise. I have often struggled with kee
 * Add a shopping list module to the funhouse/kowalski repertoire
 * Build and release a personal android app on Google Play
 * Update bookworth, overhaul UI, add its own API, integrate bookmancy
-* Build word cloud generator app
+* Build word cloud generator app# Stuff i want to do at some point
+
