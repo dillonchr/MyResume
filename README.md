@@ -21,7 +21,7 @@ There's a pdf in here somewhere. Hang tight.
 * add curl interactive version
 * ~~add bash~~
 * ~~add json format~~
-* add bat/cmd format
+* ~~add bat/cmd format~~
 * add excel
 * add latex
 
