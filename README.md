@@ -17,7 +17,7 @@ There's a pdf in here somewhere. Hang tight.
 * [Github](https://github.com/dillonchr/?tab=repositories)
 
 ### TODO:
-* add curl pretty version
+* ~~add curl pretty version~~
 * add curl interactive version
 * ~~add bash~~
 * ~~add json format~~
