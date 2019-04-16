@@ -1,0 +1,28 @@
+{
+    "basics": {
+        "name": "Dillon Christensen",
+        "label": "Fullstack Javascript Developer",
+        "email": "j.dillon.christensen@gmail.com",
+        "phone": "(918) 896-7033",
+        "summary": "Product developer with experience across browsers, OSes, devices and architectural layers. Specializing in frontend development with React & Redux using RESTful APIs. Recognized for being a clear and effective communicator and mediating software disciplines and stakeholder concerns. Having a love of learning by doing has led me to the career I love today and the greatest part is I always have new opportunities to learn both from new projects and the people I work with.",
+        "location": {
+            "address": "11106 S 108th E Ave",
+            "postalCode": "OK 74008",
+            "city": "Bixby",
+            "countryCode": "US",
+            "region": "Oklahoma"
+        },
+        "profiles": [{
+            "network": "Github",
+            "username": "dillonchr",
+            "url": "https://github.com/dillonchr"
+        }, {
+            "network": "LinkedIn",
+            "username": "dillonchr",
+            "url": "https://linkedin.com/in/dillonchr/"
+        }]
+    },
+    "work": [{
+        "TODO": "https://jsonresume.org/schema/"
+    }]
+}

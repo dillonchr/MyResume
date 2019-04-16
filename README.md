@@ -10,7 +10,7 @@ This is a repo dedicated to my resume. Surprise. I have often struggled with kee
 * add curl pretty version
 * add curl interactive version
 * ~~add bash~~
-* add json format
+* ~~add json format~~
 * add bat/cmd format
 * add excel
 * add latex
