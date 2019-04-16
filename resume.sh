@@ -61,7 +61,7 @@ echo -e $HR;
 echo -e "${CYAN}iMirus${NORM} - Tulsa";
 echo -e "${UNDERLINE}Online cross-platform digital publisher and content creator${NORM}";
 echo
-echo -e "${RED}Senior Software Developer${NORM} -_2011-2014";
+echo -e "${RED}Senior Software Developer${NORM} - 2011-2014";
 echo "Developed new digital reader and maintained existing reader apps in multiple environments";
 echo
 echo -e "${CYAN}*${NORM} Learned AngularJS to use in creating new JS-based document reader app to replace Adobe Air app";
