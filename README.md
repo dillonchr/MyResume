@@ -23,5 +23,5 @@ This is a repo dedicated to my resume. Surprise. I have often struggled with kee
 * Add a shopping list module to the funhouse/kowalski repertoire
 * Build and release a personal android app on Google Play
 * Update bookworth, overhaul UI, add its own API, integrate bookmancy
-* Build word cloud generator app# Stuff i want to do at some point
+* Build word cloud generator app
 
