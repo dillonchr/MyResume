@@ -9,7 +9,7 @@ This is a repo dedicated to my resume. Surprise. I have often struggled with kee
 ### TODO:
 * add curl pretty version
 * add curl interactive version
-* add bash/vim
+* ~~add bash~~
 * add json format
 * add bat/cmd format
 * add excel
