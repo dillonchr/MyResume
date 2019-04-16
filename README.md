@@ -1,5 +1,15 @@
 # My Resume
-This is a repo dedicated to my resume. Surprise. I have often struggled with keeping a central core resume especially when I need to add something I'm proud of to it. So by hosting it in GH I get the benefit of not only having it always available anywhere I'm at but I also get history!
+I often had a hard time keeping my resume up-to-date. I would work on it on a specific computer then
+get a new computer or otherwise forget where on the PC I had my working resume. Dropbox and Drive
+helped out a little. But then I realized how much I liked the aesthetic of the README in Github. And
+I figured it's the perfect spot for someone who uses GH daily to host their living resume. Plus now
+I get to roll back the clock to see what I used to be proud of. It's a win-win.
+
+### *nix Users:
+`curl -s https://raw.githubusercontent.com/dillonchr/MyResume/features/cdp/resume | less`
+
+### Windows Users:
+There's a pdf in here somewhere. Hang tight.
 
 ### Links
 * [View Resume](resume.md)
