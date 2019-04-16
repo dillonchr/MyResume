@@ -9,7 +9,7 @@ I get to roll back the clock to see what I used to be proud of. It's a win-win.
 `curl -s https://raw.githubusercontent.com/dillonchr/MyResume/features/cdp/resume | less`
 
 ### Windows Users:
-There's a pdf in here somewhere. Hang tight.
+`curl -s https://raw.githubusercontent.com/dillonchr/MyResume/features/cdp/resume.win > "%TEMP%.\dillon-resume" & type "%TEMP%.\dillon-resume"`
 
 ### Links
 * [View Resume](resume.md)
