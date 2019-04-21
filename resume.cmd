@@ -10,7 +10,7 @@ echo [4m[33mhttps://github.com/dillonchr
 echo [0m918-896-7033
 echo[
 echo[
-echo Product developer with experience across browsers, OSes, devices, and architectural layers. Specializing in frontend development with React ^& Redux using RESTful APIs. Recognized for being a clear and effective communicator and mediating software disciplines and stakeholder concerns. Having a love of learning by doing has led me to the career I love today and the greatest part is I always have new opportunities to learn both from new projects and the people I work with.
+echo Product developer with experience across browsers, operating systems, devices, and architectural layers. Specializing in frontend development with React ^& Redux using RESTful APIs. Recognized for being a clear and effective communicator and mediating software disciplines and stakeholder concerns. Career path has been directed by a love of learning which continues to lead to new opportunities and challenges to learn from different projects and teams.
 CALL :linerule
 echo [46mKalibrate[0m - Tulsa
 echo [4mGlobal retail fuel pricing and planning strategic advisors
@@ -19,7 +19,7 @@ echo[
 echo [31mSenior UX Developer[0m - 2017-2019
 echo Built front-end of flagship planning Saas app and designed UI/UX for multiple platforms
 echo[
-echo [46m*[0m Developed a React-based SaaS app using Leaflet and Google Maps
+echo [46m*[0m Developed a [46mReact[0m-based SaaS app using Leaflet and Google Maps
 echo [46m*[0m Debugged memory and performance issues with drawing thousands of markers on a world map
 echo [46m*[0m Designed wireframes and low-to-mid fidelity mockups for new products
 echo [46m*[0m Learned React Native to build an Android app with which users could survey sites across the globe
