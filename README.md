@@ -15,6 +15,8 @@ I get to roll back the clock to see what I used to be proud of. It's a win-win.
 * [View Resume](resume.md)
 * [LinkedIn](https://www.linkedin.com/in/dillonchr)
 * [Github](https://github.com/dillonchr/?tab=repositories)
+* [Doc
+  Version](https://docs.google.com/document/d/1XqPckYxdPkmnTTkTLQE4y8NfzJrCkkWiObKRAU1FXOQ/edit?usp=sharing)
 
 ### TODO:
 * ~~add curl pretty version~~
