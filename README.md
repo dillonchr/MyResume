@@ -6,10 +6,10 @@ I figured it's the perfect spot for someone who uses GH daily to host their livi
 I get to roll back the clock to see what I used to be proud of. It's a win-win.
 
 ### *nix Users:
-`curl -s https://raw.githubusercontent.com/dillonchr/MyResume/features/cdp/resume | less`
+`curl -s https://raw.githubusercontent.com/dillonchr/MyResume/master/resume | less`
 
 ### Windows Users:
-`curl -s https://raw.githubusercontent.com/dillonchr/MyResume/features/cdp/resume.win > "%TEMP%.\dillon-resume" & type "%TEMP%.\dillon-resume"`
+`curl -s https://raw.githubusercontent.com/dillonchr/MyResume/master/resume.win > "%TEMP%.\dillon-resume" & type "%TEMP%.\dillon-resume"`
 
 ### Links
 * [View Resume](resume.md)
