@@ -17,22 +17,31 @@ echo "https://github.com/dillonchr";
 echo -e "${NORM}918-896-7033";
 echo
 echo
-echo "Product developer with experience across browsers, operating systems, devices, and architectural layers. Specializing in frontend development with React & Redux using RESTful APIs. Recognized for being a clear and effective communicator and mediating software disciplines and stakeholder concerns. Career path has been directed by a love of learning which continues to lead to new opportunities and challenges to learn from different projects and teams.";
+echo "Product developer with experience across browsers, operating systems, devices, and architectural layers. Specializing in frontend development with React using RESTful APIs. Recognized for being a clear and effective communicator and mediating software disciplines and stakeholder concerns. Motivated by a love of learning which continues to lead to new opportunities and challenges to learn from different projects and teams.";
+
 echo -e $HR;
 echo -e "${GREEN}Technical Skills${NORM}";
 echo
-echo -e "${CYAN}*${NORM} Javascript (ES5/ES6)";
+echo -e "${CYAN}*${NORM} Javascript";
 echo -e "${CYAN}*${NORM} React & React Native";
-echo -e "${CYAN}*${NORM} Google Maps JS SDK";
-echo -e "${CYAN}*${NORM} Angular & TypeScript";
-echo -e "${CYAN}*${NORM} Unit and end-to-end testing";
 echo -e "${CYAN}*${NORM} Node JS";
-echo -e "${CYAN}*${NORM} Objective-C";
-echo -e "${CYAN}*${NORM} Docker";
 echo -e "${CYAN}*${NORM} Bash";
 echo -e "${CYAN}*${NORM} Git";
+echo -e "${CYAN}*${NORM} Docker";
 echo -e $HR;
 echo -e "${GREEN}Experience${NORM}";
+echo
+echo -e "${CYAN}LoanSnap${NORM} - San Francisco (Remote)";
+echo -e "${UNDERLINE}Online mortgage lender specializing in AI-driven loans";
+echo -e $NORM;
+echo
+echo -e "${RED}Fullstack Developer${NORM} - 2019-2020";
+echo "Built and maintained new customer flows for online home loan applications";
+echo
+echo -e "${CYAN}*${NORM} Added new features and fixed bugs in both customer-facing and internal ${CYAN}React${NORM} apps";
+echo -e "${CYAN}*${NORM} Used ${CYAN}GraphQL${NORM} for server communication and developed features in ${CYAN}Python/Django${NORM}";
+echo -e "${CYAN}*${NORM} Maintained ${CYAN}React Native${NORM} mobile application and coordinated delivery to ${CYAN}AppStore${NORM} and ${CYAN}Google Play${NORM}";
+echo -e $HR;
 echo
 echo -e "${CYAN}Kalibrate${NORM} - Tulsa";
 echo -e "${UNDERLINE}Global retail fuel pricing and planning strategic advisors";

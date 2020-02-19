@@ -3,21 +3,29 @@
 >
 > https://github.com/dillonchr
 
-Product developer with experience across browsers, operating systems, devices, and architectural layers. Specializing in frontend development with React & Redux using RESTful APIs. Recognized for being a clear and effective communicator and mediating software disciplines and stakeholder concerns. Motivated by a love of learning which continues to lead to new opportunities and challenges to learn from different projects and teams.
+Product developer with experience across browsers, operating systems, devices, and architectural layers. Specializing in frontend development with React using RESTful APIs. Recognized for being a clear and effective communicator and mediating software disciplines and stakeholder concerns. Motivated by a love of learning which continues to lead to new opportunities and challenges to learn from different projects and teams.
 
 ***
 
 #### Technical Skills
-* Javascript (ES5/ES6)
+* Javascript
 * React & React Native
-* Google Maps JS SDK
-* Angular & TypeScript
-* Unit and end-to-end testing
 * Node JS
-* Objective-C
-* Docker
 * Bash
 * Git
+* Docker
+
+***
+
+### LoanSnap - San Francisco (Remote)
+Online mortgage lender specializing in AI-driven loans
+
+#### Fullstack Developer - _2019-2020_
+Built and maintained new customer flows for online home loan applications
+
+* Added new features and fixed bugs in both customer-facing and internal **React** apps
+* Used GraphQL for server communication and developed features in **Python/Django**
+* Maintained **React Native** mobile application and coordinated delivery to **AppStore** and **Google Play**
 
 ***
 

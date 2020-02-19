@@ -31,7 +31,8 @@ I get to roll back the clock to see what I used to be proud of. It's a win-win.
 * Learn C -> Write Game Boy _"app"_
 * Write a 3DS game
 * Write an NES game. In C or like in dreams, in 6502
-* Write a normal modern game, even a flappy bird clone would be nice
+* ~~Write a normal modern game, even a flappy bird clone would be nice~~
+  [done](https://wistful-recorder.glitch.me)
 * Add a shopping list module to the funhouse/kowalski repertoire
 * Build and release a personal android app on Google Play
 * Update bookworth, overhaul UI, add its own API, integrate bookmancy
