@@ -20,7 +20,7 @@ Product developer with experience across browsers, operating systems, devices, a
 ### LoanSnap - San Francisco (Remote)
 Online mortgage lender specializing in AI-driven loans
 
-#### Fullstack Developer - _Aug 2019 - Jul 2020_
+#### Fullstack Developer - _Aug 2019 - Feb 2020_
 Built and maintained new customer flows for online home loan applications
 
 * Added new features and fixed bugs in both customer-facing and internal **React** apps
