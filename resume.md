@@ -20,7 +20,7 @@ Product developer with experience across browsers, operating systems, devices, a
 ### LoanSnap - San Francisco (Remote)
 Online mortgage lender specializing in AI-driven loans
 
-#### Fullstack Developer - _2019-2020_
+#### Fullstack Developer - _Aug 2019 - Jul 2020_
 Built and maintained new customer flows for online home loan applications
 
 * Added new features and fixed bugs in both customer-facing and internal **React** apps
@@ -32,7 +32,7 @@ Built and maintained new customer flows for online home loan applications
 ### Kalibrate - Tulsa
 Global retail fuel pricing and planning strategic advisors
 
-#### Senior UX Developer - _2017-2019_
+#### Senior UX Developer - _Feb 2017 - Jul 2019_
 Built front-end of flagship planning SaaS app and designed UI/UX for multiple platforms
 
 * Developed a **React**-based SaaS app using **Leaflet** to support both **Google Maps** and **Bing Maps**
@@ -45,7 +45,7 @@ Built front-end of flagship planning SaaS app and designed UI/UX for multiple pl
 ### ConsumerAffairs / Gitwit - Tulsa
 Online marketplace for consumers to research, rate, and review big purchases
 
-#### Software Engineer Team Lead - _2016-2017_
+#### Software Engineer Team Lead - _May 2016 - Feb 2017_
 Led full-stack development team of 8 with a focus on SCRUM methodologies
 
 * Developed features and fixed defects in public-facing pages using  **Javascript**, **Sass**, and **Jinja**
@@ -55,7 +55,7 @@ Led full-stack development team of 8 with a focus on SCRUM methodologies
 
 ---
 
-#### Front-end Developer - _2016_
+#### Front-end Developer - _Jan 2016 - May 2016_
 Created UIs from designs by Gitwit for ConsumerAffairs and other clients
 
 * Built responsive interactive content modules to be included in high traffic marketing pages
@@ -65,7 +65,7 @@ Created UIs from designs by Gitwit for ConsumerAffairs and other clients
 ***
 
 ### Kalibrate - Tulsa
-#### Software Engineer - _2014-2016_
+#### Software Engineer - _Nov 2014 - Jan 2016_
 Built new features and maintained legacy web-apps for planning department
 
 * Implemented new features in the flagship **AngularJS** product with many being map-centered improvements
@@ -77,7 +77,7 @@ Built new features and maintained legacy web-apps for planning department
 ### iMirus - Tulsa
 Online cross-platform digital publisher and content creator
 
-#### Senior Software Developer - _2011-2014_
+#### Senior Software Developer - _Jan 2011 - Nov 2014_
 Developed new digital reader and maintained existing reader apps in multiple environments
 
 * Learned **AngularJS** to build new document reader app to replace legacy **Adobe Air** version
